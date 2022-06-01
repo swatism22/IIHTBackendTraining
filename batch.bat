@@ -1,2 +1,2 @@
-javac Hello world.java
-java Hello world
+javac HelloWorld.java
+java HelloWorld
